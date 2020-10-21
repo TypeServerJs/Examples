@@ -1,0 +1,13 @@
+{
+    "name": "type-server-starter-app1",
+    "version": "0.0.1",
+    "dependencies": {
+        "ts-node": "^9.0.0"
+    },
+    "scripts": {
+        "start": "ts-node ./src/index.ts"
+    },
+    "devDependencies": {
+        "typescript": "^4.0.3"
+    }
+}
